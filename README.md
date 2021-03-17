@@ -1,1 +1,2 @@
 # Suitebundle-ACND-Record-Review
+ACND Record Review SuiteBundle is derived from the new GDPR legislation that came into force within the European Union in 2018. Customers have expressed an increased need to be able to easily find records in NetSuite based on custom rules and be able to either inactivate, anonymize or permanently delete these records. In order to meet this need, we have developed a tool that facilitates this process
